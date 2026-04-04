@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# FAISS Index Files
+*.faiss
+*.pkl
+
+# Model Files
+models/
+*.bin
+*.gguf
+
+# Ollama models cache (optional)
+.ollama/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Mac
+.AppleDouble
+.LSOverride
